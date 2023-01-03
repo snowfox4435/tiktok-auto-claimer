@@ -1,12 +1,4 @@
-<div id="top"></div>
-<p align="center">
-  <img src="https://img.shields.io/github/contributors/dropout1337/TikTok-Autoclaimer.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/forks/dropout1337/TikTok-Autoclaimer.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/dropout1337/TikTok-Autoclaimer.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/issues/dropout1337/TikTok-Autoclaimer.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/license/dropout1337/TikTok-Autoclaimer.svg?style=for-the-badge"/>
-</p>
-  
+
 ---------------------------------------
   
 <br/>
@@ -22,7 +14,7 @@
     <br />
     <br />
     <a href="https://github.com/dropout1337/TikTok-Autoclaimer/issues">Report Bug</a>
-    ·
+    Â·
     <a href="https://github.com/dropout1337/TikTok-Autoclaimer/issues">Request Feature</a>
   </p>
 </div>
